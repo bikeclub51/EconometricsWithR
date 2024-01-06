@@ -67,7 +67,7 @@ plot(as.zoo(FOJC_pctc),
      xlab = "Date",
      ylab = "Percent",
      cex.main=0.8,
-     main = "Monthly Changes in the Price of Frozen Conentrated Orange Juice")
+     main = "Monthly Changes in the Price of Frozen Concentrated Orange Juice")
 
 # plot freezing degree days
 plot(as.zoo(FDD),
